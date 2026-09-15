@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Привет! Я tql-mee6</h1>
-</p>
+<h1 align="center">Привет! Я tql-mee6 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ECDC4&width=500&lines=Студент+Разработчик;Учусь+и+Создаю;Добро+Пожаловать!" alt="Typing SVG">
@@ -12,115 +10,104 @@
 
 ---
 
-## 🎯 **Обо мне**
+## 🎯 Обо мне
 
-<div align="center">
+<p align="center">
+  <b>Привет! Я начинающий разработчик и студент.</b><br>
+  Люблю создавать интересные проекты и изучать новые технологии.<br>
+  Всегда открыт к сотрудничеству и новым знаниям! 
+</p>
 
-**Привет! Я начинающий разработчик и студент.** 
-
-Люблю создавать интересные проекты и изучать новые технологии. 
-Всегда открыт к сотрудничеству и новым знаниям!
-
-✨ **Мои интересы:**
-- 💻 Веб-разработка
-- 📱 Создание приложений  
-- 🎨 Дизайн и UI/UX
--  Постоянное обучение
-
-</div>
+<p align="center">
+  💻 Веб-разработка &nbsp;|&nbsp; 📱 Приложения &nbsp;|&nbsp; 🎨 Дизайн &nbsp;|&nbsp; 📚 Обучение
+</p>
 
 ---
 
-## 🛠 **Мои Технологии**
+## 🛠 Мои Технологии
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
-##  **Моя Статистика GitHub**
+## 📊 Моя Статистика GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tql-mee6&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tql-mee6&show_icons=true&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tql-mee6&layout=compact&theme=radical&hide_border=false" alt="Top Languages">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tql-mee6&layout=compact&theme=radical&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tql-mee6&theme=radical)
-
-</div>
-
----
-
-## 🏆 **Мои Достижения**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tql-mee6&theme=juicyfresh&row=1&column=4)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tql-mee6&theme=radical" alt="GitHub Streak">
+</p>
 
 ---
 
-## 📈 **График Активности**
+## 🏆 Мои Достижения
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tql-mee6&theme=react-dark&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tql-mee6&theme=juicyfresh&row=1&column=4" alt="Trophies">
+</p>
 
 ---
 
-##  **Что я слушаю**
+## 📈 График Активности
 
-<div align="center">
-
-🎧 **Музыка** — мой верный спутник при программировании!
-
-![Music](https://img.shields.io/badge/🎵_Слушаю-Музыку-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tql-mee6&theme=react-dark&hide_border=true" alt="Activity Graph">
+</p>
 
 ---
 
-##  **Мои Проекты**
+## 🎵 Что я слушаю
 
-<div align="center">
+<p align="center">
+   <b>Музыка</b> — мой верный спутник при программировании!
+</p>
 
-### 📖 [last-watch-novel](https://github.com/tql-mee6/last-watch-novel)
-*Мой первый проект. Отслеживание обновлений новелл.*
-
-</div>
-
----
-
-## 💬 **Связаться со мной**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой_email@example.com)
-[![Telegram](https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![GitHub](https://img.shields.io/badge/⭐-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tql-mee6)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎵_Слушаю-Музыку-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Music">
+</p>
 
 ---
 
-<div align="center">
+##  Мои Проекты
 
-### ✨ **Спасибо, что заглянули!**
+<p align="center">
+  📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
+  <i>Мой первый проект. Отслеживание обновлений новелл.</i>
+</p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tql-mee6&color=FF6B6B&style=flat-square&label=Всего+посещений)
+---
 
-*Сделано с  и ☕*
+## 💬 Связаться со мной
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/⭐-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Спасибо, что заглянули! ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tql-mee6&color=FF6B6B&style=flat-square&label=Всего+посещений" alt="Visitor Count">
+</p>
+
+<p align="center">
+  <i>Сделано с 💖 и ☕</i>
+</p>

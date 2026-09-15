@@ -1,12 +1,14 @@
-<div align="center">
+<p align="center">
+  <h1>Привет! Я tql-mee6</h1>
+</p>
 
-#  Привет! Я tql-mee6
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ECDC4&width=500&lines=Студент+Разработчик;Учусь+и+Создаю;Добро+Пожаловать!" alt="Typing SVG">
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ECDC4&width=500&lines=Студент+Разработчик;Учусь+и+Создаю;Добро+Пожаловать!)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tql-mee6&color=4ECDC4&style=for-the-badge&label=ПРОСМОТРОВ+ПРОФИЛЯ)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tql-mee6&color=4ECDC4&style=for-the-badge&label=ПРОСМОТРОВ+ПРОФИЛЯ" alt="Visitor Count">
+</p>
 
 ---
 

@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/tql-mee6/tql-mee6/blob/main/200%20(1).webp">
 </p>  
+<p align="center">
   ⚡ ⚡ ⚡  ⚡ ⚡ ⚡  ⚡ ⚡ ⚡  ⚡ ⚡ ⚡
 </p>
 

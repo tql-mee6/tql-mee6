@@ -64,6 +64,9 @@
   📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
   <i>Мой первый проект. Отслеживание обновлений новелл.</i>
 </p>
+<p align="center">
+  <img src="https://github.com/tql-mee6/tql-mee6/blob/main/giphy.webp">
+</p>
 
 <p align="center">
   ─────────────────────────────────────────────
@@ -86,6 +89,9 @@
   <a href="https://t.me/Mee6666">
     <img src="https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+</p>
+<p align="center">
+  <img src="https://github.com/tql-mee6/tql-mee6/blob/main/giphy%20(1).webp">
 </p>
 
 <p align="center">

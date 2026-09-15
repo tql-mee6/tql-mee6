@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Обо мне
+##  Обо мне
 
 <p align="center">
   Привет! Я начинающий разработчик и студент.<br>
@@ -41,7 +41,7 @@
 
 ---
 
-## 📁 Мои Проекты
+##  Мои Проекты
 
 <p align="center">
   📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
@@ -74,9 +74,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tql-mee6&color=FF6B6B&style=flat-square&label=Всего+посещений" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=tql-mee6&color=FF6B6B&label=Visitors&style=flat-square" alt="Visitors">
 </p>
 
 <p align="center">
-  <i>Сделано с 💖 и ☕</i>
+  <i>Сделано с  и ☕</i>
 </p>

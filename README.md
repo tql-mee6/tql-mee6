@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я tql-mee6 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4ECDC4&width=500&lines=Студент+Разработчик;Учусь+и+Создаю;Добро+Пожаловать!" alt="Typing SVG">
+  <b>Студент Разработчик | Учусь и Создаю | Добро Пожаловать!</b>
 </p>
 
 <p align="center">
@@ -37,14 +37,14 @@
 
 ---
 
-## 📊 Моя Статистика GitHub
+##  Моя Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tql-mee6&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tql-mee6&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tql-mee6&layout=compact&theme=radical&hide_border=false" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tql-mee6&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -76,15 +76,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎵_Слушаю-Музыку-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Music">
+  <img src="https://img.shields.io/badge/_Слушаю-Музыку-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Music">
 </p>
 
 ---
 
-##  Мои Проекты
+## 📁 Мои Проекты
 
 <p align="center">
-  📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
+   <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
   <i>Мой первый проект. Отслеживание обновлений новелл.</i>
 </p>
 
@@ -93,9 +93,15 @@
 ## 💬 Связаться со мной
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  <img src="https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  <img src="https://img.shields.io/badge/⭐-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:ziga17440@gmail.com">
+    <img src="https://img.shields.io/badge/📧-ziga17440@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/Mee6666">
+    <img src="https://img.shields.io/badge/-Telegram-@Mee6666-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/tql-mee6">
+    <img src="https://img.shields.io/badge/⭐-GitHub-tql--mee6-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---

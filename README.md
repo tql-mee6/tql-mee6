@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=tql-mee6&color=4ECDC4&style=for-the-badge&label=ПРОСМОТРОВ" alt="Visitor Count](https://github.com/tql-mee6/tql-mee6/blob/main/200%20(1).webp)">
+</p>  
   ⚡ ⚡ ⚡  ⚡ ⚡ ⚡  ⚡ ⚡ ⚡  ⚡ ⚡ ⚡
 </p>
 

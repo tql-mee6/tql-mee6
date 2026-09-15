@@ -29,9 +29,8 @@
 ---
 
 ### 📫 Как со мной связаться
-- 📧 Email: [твой_email@example.com](mailto:твой_email@example.com)
-- 💬 Telegram: [@твой_ник](https://t.me/твой_ник)
-- 🌐 Портфолио: [Ссылка на сайт, Notion или пока удали эту строку](https://example.com)
+- 📧 Email: ziga17440@gmail.com (mailto:ziga17440@gmail.com)
+- 💬 Telegram: [@Mee6666](https://t.me/Mee6666)
 
 ---
 <p align="center">

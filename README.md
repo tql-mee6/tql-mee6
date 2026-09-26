@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я tql-mee6 👋</h1>
 
 <p align="center">
-  <b>🎓 Студент Разработчик</b>
+  <b>🎓 Fullstack-разработчик</b>
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ## 🎯 Обо мне
 
 <p align="center">
-  <b>Привет! Я начинающий разработчик и студент.</b><br>
+  <b>Привет! Я начинающий fullstack-разработчик и студент.</b><br>
   Люблю создавать интересные проекты и изучать новые технологии.<br>
-  Всегда открыт к сотрудничеству и новым знаниям! 
+  Всегда открыта к сотрудничеству и новым знаниям! 
 </p>
 
 <p align="center">
@@ -47,9 +47,12 @@
 </p>
 
 <p align="center">
-  <b>Посмотрите мои работы и проекты в интерактивном формате!</b><br><br>
+  <b>Посмотрите мои работы и проекты!</b>
+</p>
+
+<p align="center">
   <a href="https://my-ai-portfolio-tan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-Открыть_Портфолио-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link">
+    <img src="https://img.shields.io/badge/_ОТКРЫТЬ_ПОРТФОЛИО-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 

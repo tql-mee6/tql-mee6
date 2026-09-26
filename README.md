@@ -40,6 +40,25 @@
 
 ---
 
+## 🌐 Мое Портфолио
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Portfolio">
+</p>
+
+<p align="center">
+  <b>Посмотрите мои работы и проекты в интерактивном формате!</b><br><br>
+  <a href="https://my-ai-portfolio-tan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-Открыть_Портфолио-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3GVK/giphy.gif" width="300" alt="divider">
+</p>
+
+---
+
 ##  Мои Технологии
 
 <p align="center">

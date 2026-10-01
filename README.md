@@ -76,11 +76,42 @@
 ## 📁 Мои Проекты
 
 <p align="center">
-  📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
-  <i>Мой первый проект. Отслеживание обновлений новелл.</i>
+  <b> Последний Дозор — Визуальная новелла</b>
 </p>
+
+<p align="center">
+  <i>Мрачная история о временной петле, предательстве и жертве. 3 цикла, 6 концовок, система рассудка.</i>
+</p>
+
+<p align="center">
+  <a href="https://tql-mee6.github.io/last-watch-novel/" target="_blank">
+    <img src="https://img.shields.io/badge/▶_ИГРАТЬ-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Играть">
+  </a>
+  &nbsp;
+  <a href="https://github.com/tql-mee6/last-watch-novel" target="_blank">
+    <img src="https://img.shields.io/badge/📂_ИСХОДНИКИ-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Код">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Twine-SugarCube-9C27B0?style=flat-square&logo=javascript&logoColor=white" alt="Twine">
+  <img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/GitHub_Pages-Live-181717?style=flat-square&logo=github&logoColor=white" alt="Pages">
+</p>
+
 <p align="center">
   <img src="https://github.com/tql-mee6/tql-mee6/blob/main/giphy.webp">
+</p>
+
+<p align="center">
+  <b>✨ Особенности проекта:</b><br>
+  🎭 Анимированные персонажи с прозрачным фоном<br>
+  🧠 Система рассудка и доверия к NPC<br>
+  🔄 3 временных цикла с уникальным контентом<br>
+  🏆 6 концовок (включая 2 секретные)<br>
+  🎨 Кинематографичные визуальные эффекты<br>
+  📱 Адаптивный дизайн для мобильных
 </p>
 
 <p align="center">

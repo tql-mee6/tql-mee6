@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tql-mee6&color=4ECDC4&style=for-the-badge&label=ПРОСМОТРОВ" alt="Visitor Count">
-</p>
-
-
-<p align="center">
   <img src="https://github.com/tql-mee6/tql-mee6/blob/main/200%20(1).webp">
 </p>  
 <p align="center">
@@ -80,26 +75,13 @@
 
 ## 📁 Мои Проекты
 
-# 🎮 Последний Дозор
-
-Визуальная новелла в жанре тёмного фэнтези о временной петле, предательстве и жертве.
-
-## 📖 Сюжет
-Кайрен Вальд застрял во временной петле. Каждый день он умирает и просыпается снова. 
-Его сестра Элла — ключ к разгадке. Но правда окажется страшнее, чем он думал.
-
-## 🎯 Особенности
-- 3 цикла с разным контентом
-- 6 концовок (включая 2 секретные)
-- Система рассудка и доверия к NPC
-- Атмосферная графика и анимации
-
-## ️ Играть
-👉 [Открыть игру](https://tql-mee6.github.io/last-watch-novel/)
-
-## ️ Сделано на
-- [Twine](https://twinery.org/) + SugarCube
-- GitHub Pages
+<p align="center">
+  📖 <b><a href="https://github.com/tql-mee6/last-watch-novel">last-watch-novel</a></b><br>
+  <i>Мой первый проект. Отслеживание обновлений новелл.</i>
+</p>
+<p align="center">
+  <img src="https://github.com/tql-mee6/tql-mee6/blob/main/giphy.webp">
+</p>
 
 <p align="center">
   ─────────────────────────────────────────────

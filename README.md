@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tql-mee6/tql-mee6/blob/main/giphy.webp">
+  <img src="[https://github.com/tql-mee6/tql-mee6/blob/main/giphy.webp](https://github.com/tql-mee6/last-watch-novel/blob/d30af50418558e00ecd4b0b09e08d3c7cbae89d5/front.jpeg)">
 </p>
 
 <p align="center">

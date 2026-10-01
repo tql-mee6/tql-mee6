@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tql-mee6/last-watch-novel/blob/d30af50418558e00ecd4b0b09e08d3c7cbae89d5/front.jpeg">
+  <img src="https://github.com/tql-mee6/last-watch-novel/blob/d30af50418558e00ecd4b0b09e08d3c7cbae89d5/front.jpeg" alt="Последний Дозор" width="450" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
 </p>
 
 <p align="center">

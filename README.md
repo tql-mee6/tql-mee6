@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я tql-mee6 👋</h1>
+<h1 align="center">Привет! Я Маргарита 👋</h1>
 
 <p align="center">
   <b>🎓 Fullstack-разработчик</b>
@@ -56,9 +56,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG3GVK/giphy.gif" width="300" alt="divider">
-</p>
 
 ---
 

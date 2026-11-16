@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-ai-portfolio-tan.vercel.app" target="_blank">
+  <a href="https://tql-mee6-portfolio.layero.app" target="_blank">
     <img src="https://img.shields.io/badge/_ОТКРЫТЬ_ПОРТФОЛИО-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
